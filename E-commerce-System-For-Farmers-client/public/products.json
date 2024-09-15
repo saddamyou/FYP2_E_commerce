@@ -1,0 +1,318 @@
+[
+    {
+       
+      "title": "Organic Tomatoes",
+      "description": "Fresh and juicy organic tomatoes, perfect for salads, sauces, and sandwiches.",
+      "category": "Vegetables",
+      "unit_quantity": "1 lb",
+      "price": 2.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Apples",
+      "description": "Crisp and sweet organic apples, ideal for snacking or adding to your favorite desserts.",
+      "category": "Fruits",
+      "unit_quantity": "per apple",
+      "price": 1.49,
+      "image": "https://i.ibb.co/j503wVj/Red-Apple.png"
+    },
+    {
+       
+      "title": "Organic Spinach",
+      "description": "Nutrient-rich organic spinach, perfect for salads, smoothies, and sautés.",
+      "category": "Vegetables",
+      "unit_quantity": "6 pcs",
+      "price": 3.49,
+      "image": "https://i.ibb.co/n6JHHLS/Spinach.jpg"
+    },
+    {
+      
+      "title": "Organic chicken Eggs",
+      "description": "Farm-fresh organic eggs from free-range chickens, rich in flavor and nutrition.",
+      "category": "Dairy and Eggs",
+      "unit_quantity": "per dozen",
+      "price": 4.99,
+      "image": "https://i.ibb.co/23F0MLd/chicken-eggs.png"
+    },
+    {
+    
+      "title": "Organic Honey",
+      "description": "Pure and natural organic honey, harvested from local beekeepers. A sweet and wholesome treat.",
+      "category": "Others",
+      "unit_quantity": "1 jar",
+      "price": 6.99,
+      "image": "honey_image.jpg"
+    },
+    {
+    
+      "title": "Organic Quinoa",
+      "description": "Organic quinoa, a versatile and protein-packed grain. Perfect for salads, bowls, and side dishes.",
+      "category": "Grains",
+      "unit_quantity": "1 lb",
+      "price": 5.99,
+      "image": "quinoa_image.jpg"
+    },
+    {
+       
+      "title": "Organic Carrots",
+      "description": "Sweet and crunchy organic carrots, great for snacking, roasting, or adding to soups.",
+      "category": "Vegetables",
+      "unit_quantity": "1 lb",
+      "price": 1.79,
+      "image": "https://i.ibb.co/YQgm3hJ/Carrots.png"
+    },
+    {
+       
+      "title": "Organic Blueberries",
+      "description": "Plump and flavorful organic blueberries, perfect for breakfast, desserts, or as a healthy snack.",
+      "category": "Fruits",
+      "unit_quantity": "1 pint",
+      "price": 4.29,
+      "image": "blueberries_image.jpg"
+    },
+    {
+      
+      "title": "Organic Kale",
+      "description": "Nutrient-dense organic kale, great for salads, smoothies, and hearty soups.",
+      "category": "Vegetables",
+      "unit_quantity": "1 bunch",
+      "price": 3.99,
+      "image": "kale_image.jpg"
+    },
+    {
+       
+      "title": "Organic Milk",
+      "description": "Creamy and wholesome organic milk from grass-fed cows. Perfect for drinking or adding to recipes.",
+      "category": "Dairy and Eggs",
+      "unit_quantity": "1 gallon",
+      "price": 5.49,
+      "image": "milk_image.jpg"
+    },
+    {
+       
+      "title": "Organic Maple Syrup",
+      "description": "Rich and flavorful organic maple syrup, sourced from local maple farms. Ideal for pancakes and waffles.",
+      "category": "Others",
+      "unit_quantity": "1 bottle",
+      "price": 7.99,
+      "image": "maple_syrup_image.jpg"
+    },
+    {
+       
+      "title": "Organic Brown Rice",
+      "description": "Nutty and wholesome organic brown rice, a staple for healthy meals.",
+      "category": "Grains",
+      "unit_quantity": "2 lbs",
+      "price": 4.99,
+      "image": "brown_rice_image.jpg"
+    },
+    {
+       
+      "title": "Organic Bell Peppers",
+      "description": "Colorful and crisp organic bell peppers, perfect for salads, stir-fries, and fajitas.",
+      "category": "Vegetables",
+      "unit_quantity": "per pepper",
+      "price": 2.49,
+      "image": "bell_peppers_image.jpg"
+    },
+    {
+       
+      "title": "Organic Strawberries",
+      "description": "Sweet and juicy organic strawberries, a delicious addition to desserts, smoothies, and snacks.",
+      "category": "Fruits",
+      "unit_quantity": "1 pint",
+      "price": 5.99,
+      "image": "strawberries_image.jpg"
+    },
+    {
+       
+      "title": "Organic Lettuce",
+      "description": "Crisp and fresh organic lettuce, perfect for salads, sandwiches, and wraps.",
+      "category": "Vegetables",
+      "unit_quantity": "1 head",
+      "price": 3.29,
+      "image": "https://i.ibb.co/0sXW3JD/Romaine-Lettuce.png"
+    },
+    {
+       
+      "title": "Organic Yogurt",
+      "description": "Creamy and probiotic-rich organic yogurt from grass-fed cows. A delicious and nutritious snack.",
+      "category": "Dairy and Eggs",
+      "unit_quantity": "per cup",
+      "price": 4.79,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Agave Nectar",
+      "description": "Natural and sweet organic agave nectar, a healthier alternative to traditional sweeteners.",
+      "category": "Others",
+      "unit_quantity": "1 bottle",
+      "price": 6.49,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Quinoa Pasta",
+      "description": "Gluten-free and nutritious organic quinoa pasta, perfect for a wholesome and satisfying meal.",
+      "category": "Grains",
+      "unit_quantity": "1 lb",
+      "price": 6.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Cucumbers",
+      "description": "Crunchy and hydrating organic cucumbers, great for salads, sandwiches, and snacking.",
+      "category": "Vegetables",
+      "unit_quantity": "per cucumber",
+      "price": 2.29,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Raspberries",
+      "description": "Sweet and tart organic raspberries, perfect for desserts, smoothies, and garnishes.",
+      "category": "Fruits",
+      "unit_quantity": "1 pint",
+      "price": 4.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Swiss Chard",
+      "description": "Colorful and nutrient-packed organic Swiss chard, ideal for sautés, stir-fries, and salads.",
+      "category": "Vegetables",
+      "unit_quantity": "1 bunch",
+      "price": 3.79,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Cheese",
+      "description": "Artisanal and flavorful organic cheese, crafted from the milk of grass-fed cows.",
+      "category": "Dairy and Eggs",
+      "unit_quantity": "per 100g",
+      "price": 7.49,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Molasses",
+      "description": "Rich and velvety organic molasses, perfect for baking and sweetening your favorite recipes.",
+      "category": "Others",
+      "unit_quantity": "1 bottle",
+      "price": 8.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Spelt Bread",
+      "description": "Wholesome and hearty organic spelt bread, a nutritious choice for sandwiches and toasts.",
+      "category": "Grains",
+      "unit_quantity": "1 loaf",
+      "price": 5.49,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Beets",
+      "description": "Sweet and vibrant organic beets, great for roasting, salads, and pickling.",
+      "category": "Vegetables",
+      "unit_quantity": "per beet",
+      "price": 1.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Blackberries",
+      "description": "Juicy and antioxidant-rich organic blackberries, perfect for desserts and snacking.",
+      "category": "Fruits",
+      "unit_quantity": "1 pint",
+      "price": 5.49,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Arugula",
+      "description": "Peppery and flavorful organic arugula, ideal for salads, sandwiches, and pizza toppings.",
+      "category": "Vegetables",
+      "unit_quantity": "1 bunch",
+      "price": 4.29,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Butter",
+      "description": "Creamy and delicious organic butter, churned from the milk of grass-fed cows.",
+      "category": "Dairy and Eggs",
+      "unit_quantity": "per stick",
+      "price": 6.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Coconut Sugar",
+      "description": "Natural and unrefined organic coconut sugar, a healthier sweetener option for baking and beverages.",
+      "category": "Others",
+      "unit_quantity": "1 lb",
+      "price": 9.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Quinoa Salad",
+      "description": "Ready-to-eat organic quinoa salad, packed with fresh vegetables and a flavorful dressing.",
+      "category": "Grains",
+      "unit_quantity": "per serving",
+      "price": 7.49,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Potatoes",
+      "description": "Versatile and hearty organic potatoes, perfect for roasting, mashing, and frying.",
+      "category": "Vegetables",
+      "unit_quantity": "5 lbs",
+      "price": 2.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Pineapple",
+      "description": "Sweet and tropical organic pineapple, a refreshing addition to fruit salads and beverages.",
+      "category": "Fruits",
+      "unit_quantity": "per pineapple",
+      "price": 3.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Chicken",
+      "description": "Lean and organic chicken, raised without antibiotics or hormones. Perfect for various culinary creations.",
+      "category": "Meat and Fish",
+      "unit_quantity": "per pound",
+      "price": 8.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Salmon",
+      "description": "Sustainably sourced and rich in omega-3 fatty acids, organic salmon for a healthy and delicious meal.",
+      "category": "Meat and Fish",
+      "unit_quantity": "per fillet",
+      "price": 12.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    },
+    {
+       
+      "title": "Organic Greek Yogurt",
+      "description": "Thick and creamy organic Greek yogurt, high in protein and perfect for breakfast or snacks.",
+      "category": "Dairy and Eggs",
+      "unit_quantity": "per cup",
+      "price": 5.99,
+      "image": "https://i.ibb.co/7np9ddS/tomato.png"
+    }
+  ]
+  

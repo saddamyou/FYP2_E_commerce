@@ -1,0 +1,317 @@
+[
+    {
+     
+      "title": "Organic Tomatoes",
+      "description": "Fresh and juicy organic tomatoes, perfect for salads, sauces, and sandwiches.",
+      "category": "Vegetables",
+      "unit_name": "kg",
+      "price": 2.99,
+      "image": "https://i.ibb.co/N1tk1PH/Tomatos.png",
+      "inventory":999
+    },
+    {
+     
+      "title": "Organic Apples",
+      "description": "Crisp and sweet organic apples, ideal for snacking or adding to your favorite desserts.",
+      "category": "Fruits",
+      "unit_name": "pcs",
+      "price": 1.49,
+      "image": "https://i.ibb.co/MkxqydL/Apple.png",
+      "inventory":999
+    },
+    {
+  
+      "title": "Organic Spinach",
+      "description": "Nutrient-rich organic spinach, perfect for salads, smoothies, and sautés.",
+      "category": "Vegetables",
+      "unit_name":"kg",
+      "price": 3.49,
+      "image": "https://i.ibb.co/Q6bpdXX/spinach.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Eggs",
+      "description": "Farm-fresh organic eggs from free-range chickens, rich in flavor and nutrition.",
+      "category": "Dairy and Eggs",
+      "unit_name": "pcs",
+      "price": 1,
+      "image": "https://i.ibb.co/Jyy9kDV/aggs.png",
+      "inventory":999
+    },
+    {
+     
+      "title": "Organic Honey",
+      "description": "Pure and natural organic honey, harvested from local beekeepers. A sweet and wholesome treat.",
+      "category": "Others",
+      "unit_name": "ltr",
+      "price": 6.99,
+      "image": "https://i.ibb.co/9GSYk4H/Ghee.png",
+      "inventory":999
+    },
+    {
+  
+      "title": "Organic Quinoa",
+      "description": "Organic quinoa, a versatile and protein-packed grain. Perfect for salads, bowls, and side dishes.",
+      "category": "Grains",
+      "unit_name": "kg",
+      "price": 5.99,
+      "image": "https://i.ibb.co/VYws6DV/Organic-Quinoa.png",
+      "inventory":999
+    },
+    {
+  
+      "title": "Organic Carrots",
+      "description": "Sweet and crunchy organic carrots, great for snacking, roasting, or adding to soups.",
+      "category": "Vegetables",
+      "unit_name": "kg",
+      "price": 1.79,
+      "image": "https://i.ibb.co/XZjL4sk/carrots.png",
+      "inventory":999
+    },
+    {
+  
+      "title": "Organic Blueberries",
+      "description": "Plump and flavorful organic blueberries, perfect for breakfast, desserts, or as a healthy snack.",
+      "category": "Fruits",
+      "unit_name": "kg",
+      "price": 4.29,
+      "image": "https://i.ibb.co/NYnbVMW/Blueberrie.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Kale",
+      "description": "Nutrient-dense organic kale, great for salads, smoothies, and hearty soups.",
+      "category": "Vegetables",
+      "unit_name": "kg",
+      "price": 3.99,
+      "image": "https://i.ibb.co/4p6N4Bc/Kale.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Milk",
+      "description": "Creamy and wholesome organic milk from grass-fed cows. Perfect for drinking or adding to recipes.",
+      "category": "Dairy and Eggs",
+      "unit_name": "ltr",
+      "price": 5.49,
+      "image": "https://i.ibb.co/XxLnQm4/milk-cow.png",
+      "inventory":999
+    },
+   
+    {
+      
+      "title": "Organic Brown Rice",
+      "description": "Nutty and wholesome organic brown rice, a staple for healthy meals.",
+      "category": "Grains",
+      "unit_name": "kg",
+      "price": 4.99,
+      "image": "https://i.ibb.co/R96H0VH/brown-rice.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Bell Peppers",
+      "description": "Colorful and crisp organic bell peppers, perfect for salads, stir-fries, and fajitas.",
+      "category": "Vegetables",
+      "unit_name": "pcs",
+      "price": 2.49,
+      "image": "https://i.ibb.co/T1HKmxS/Bell-Peppers.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Strawberries",
+      "description": "Sweet and juicy organic strawberries, a delicious addition to desserts, smoothies, and snacks.",
+      "category": "Fruits",
+      "unit_name": "kg",
+      "price": 5.99,
+      "image": "https://i.ibb.co/VQVz45G/Strawberries.png",
+      "inventory":999
+    },
+    {
+    
+      "title": "Organic Lettuce",
+      "description": "Crisp and fresh organic lettuce, perfect for salads, sandwiches, and wraps.",
+      "category": "Vegetables",
+      "unit_name": "pcs",
+      "price": 3.29,
+      "image": "https://i.ibb.co/BCGS1xV/Lettuce.png",
+      "inventory":999
+    },
+    {
+   
+      "title": "Organic Yogurt",
+      "description": "Creamy and probiotic-rich organic yogurt from grass-fed cows. A delicious and nutritious snack.",
+      "category": "Dairy and Eggs",
+      "unit_name": "ltr",
+      "price": 4.79,
+      "image": "https://i.ibb.co/2g9RRYt/yogurt.png",
+      "inventory":999
+    },
+  
+    {
+    
+      "title": "Organic Quinoa Pasta",
+      "description": "Gluten-free and nutritious organic quinoa pasta, perfect for a wholesome and satisfying meal.",
+      "category": "Grains",
+      "unit_name": "kg",
+      "price": 6.99,
+      "image": "https://i.ibb.co/Kmfq84c/Quinoa-Pasta.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Cucumbers",
+      "description": "Crunchy and hydrating organic cucumbers, great for salads, sandwiches, and snacking.",
+      "category": "Vegetables",
+      "unit_name": "kg",
+      "price": 2.29,
+      "image": "https://i.ibb.co/0nzQ7J9/Cucumbers.png",
+      "inventory":999
+    },
+    {
+     
+      "title": "Organic Raspberries",
+      "description": "Sweet and tart organic raspberries, perfect for desserts, smoothies, and garnishes.",
+      "category": "Fruits",
+      "unit_name": "kg",
+      "price": 4.99,
+      "image": "https://i.ibb.co/XLFdXtm/Raspberries.png",
+      "inventory":999
+    },
+    {
+   
+      "title": "Organic Swiss Chard",
+      "description": "Colorful and nutrient-packed organic Swiss chard, ideal for sautés, stir-fries, and salads.",
+      "category": "Vegetables",
+      "unit_name": "pcs",
+      "price": 3.79,
+      "image": "https://i.ibb.co/yhyv741/Swiss-Chard.png",
+      "inventory":999
+    },
+    {
+    
+      "title": "Organic Cheese",
+      "description": "Artisanal and flavorful organic cheese, crafted from the milk of grass-fed cows.",
+      "category": "Dairy and Eggs",
+      "unit_name": "kg",
+      "price": 7.49,
+      "image":" https://i.ibb.co/4YKjYth/Organic-Cheese.png",
+      "inventory":999
+    },
+
+    {
+      
+      "title": "Organic Spelt Bread",
+      "description": "Wholesome and hearty organic spelt bread, a nutritious choice for sandwiches and toasts.",
+      "category": "Grains",
+      "unit_name": "kg",
+      "price": 5.49,
+      "image": "https://i.ibb.co/tHqPn6g/Spelt-Bread.png",
+      "inventory":999
+    },
+    {
+  
+      "title": "Organic Beets",
+      "description": "Sweet and vibrant organic beets, great for roasting, salads, and pickling.",
+      "category": "Vegetables",
+      "unit_name": "pcs",
+      "price": 1.99,
+      "image":" https://i.ibb.co/syPzkc2/Beets.png",
+      "inventory":999
+    },
+    {
+     
+      "title": "Organic Blackberries",
+      "description": "Juicy and antioxidant-rich organic blackberries, perfect for desserts and snacking.",
+      "category": "Fruits",
+      "unit_name": "kg",
+      "price": 5.49,
+      "image": "https://i.ibb.co/mG07Hsn/blackberries.png",
+      "inventory":999
+    },
+    {
+    
+      "title": "Organic Arugula",
+      "description": "Peppery and flavorful organic arugula, ideal for salads, sandwiches, and pizza toppings.",
+      "category": "Vegetables",
+      "unit_name": "kg",
+      "price": 4.29,
+      "image": "https://i.ibb.co/dBFzSYh/Arugula.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Butter",
+      "description": "Creamy and delicious organic butter, churned from the milk of grass-fed cows.",
+      "category": "Dairy and Eggs",
+      "unit_name": "kg",
+      "price": 6.99,
+      "image": "https://i.ibb.co/Q9wYsN8/Butter.png",
+      "inventory":999
+    },
+   
+    {
+      
+      "title": "Organic Quinoa Salad",
+      "description": "Ready-to-eat organic quinoa salad, packed with fresh vegetables and a flavorful dressing.",
+      "category": "Grains",
+      "unit_name":"kg",
+      "price": 7.49,
+      "image": "https://i.ibb.co/8NDggWv/Quinoa-Salad.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Potatoes",
+      "description": "Versatile and hearty organic potatoes, perfect for roasting, mashing, and frying.",
+      "category": "Vegetables",
+      "unit_name": "kg",
+      "price": 2.99,
+      "image": "https://i.ibb.co/DQ1tWRB/Potatoes.png",
+      "inventory":999
+    },
+    {
+     
+      "title": "Organic Pineapple",
+      "description": "Sweet and tropical organic pineapple, a refreshing addition to fruit salads and beverages.",
+      "category": "Fruits",
+      "unit_name": "pcs",
+      "price": 3.99,
+      "image":" https://i.ibb.co/GngJL4p/Pineapple.png",
+      "inventory":999
+    },
+    {
+     
+      "title": "Organic Chicken",
+      "description": "Lean and organic chicken, raised without antibiotics or hormones. Perfect for various culinary creations.",
+      "category": "Meat and Fish",
+      "unit_name": "kg",
+      "price": 8.99,
+      "image": "https://i.ibb.co/grgmNnm/Chicken.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Salmon",
+      "description": "Sustainably sourced and rich in omega-3 fatty acids, organic salmon for a healthy and delicious meal.",
+      "category": "Meat and Fish",
+      "unit_name":"kg",
+      "price": 12.99,
+      "image": "https://i.ibb.co/94v1Qww/Salmon.png",
+      "inventory":999
+    },
+    {
+      
+      "title": "Organic Greek Yogurt",
+      "description": "Thick and creamy organic Greek yogurt, high in protein and perfect for breakfast or snacks.",
+      "category": "Dairy and Eggs",
+      "unit_name": "ltr",
+      "price": 5.99,
+      "image": "https://i.ibb.co/fD0THpc/Greek-Yogurt.png",
+      "inventory":999
+    }
+  ]
+  
